@@ -1,0 +1,11 @@
+{
+  "Simulator Target Bundle": "com.aia.bancaPushNotificationSIT",
+  "aps": {
+    "alert": {
+      "title": "Banca",
+      "subtitle": "So cool...",
+      "body": "This notification is going to show up in the simulator!",
+      "category": "HOMEVIEW"
+    }
+  }
+}

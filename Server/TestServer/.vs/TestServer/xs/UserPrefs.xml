@@ -1,0 +1,38 @@
+﻿<Properties StartupConfiguration="{E2475282-CA4C-4641-9131-6242CEEBE70C}|Default">
+  <MonoDevelop.Ide.ItemProperties.TestServer PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Startup.cs">
+    <Files>
+      <File FileName="TestServer.csproj" Line="16" Column="1" />
+      <File FileName="wwwroot/index.html" Line="34" Column="58" />
+      <File FileName="Program.cs" />
+      <File FileName="ChatHub.cs" />
+      <File FileName="EchoConnectionHandler.cs" />
+      <File FileName="../../../../ResturantRequest/ResturantRequest.Android/Dependency/SQliteDroid.cs" />
+      <File FileName="Startup.cs" Line="59" Column="14" />
+      <File FileName="Person.cs" />
+      <File FileName="PlaygroundHub.cs" />
+      <File FileName="Properties/launchSettings.json" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="TestServer" expanded="True">
+            <Node name="TestServer" expanded="True">
+              <Node name="Properties" expanded="True" />
+              <Node name="wwwroot" expanded="True">
+                <Node name="js" expanded="True" />
+              </Node>
+              <Node name="Startup.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
